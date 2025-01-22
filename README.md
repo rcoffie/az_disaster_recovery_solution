@@ -1,7 +1,5 @@
 # Disaster Recovery Solution with Terraform
 
-# Disaster Recovery Solution with Terraform
-
 This project demonstrates how to implement a **Disaster Recovery Solution** in Azure using **Terraform**. The solution ensures high availability and resiliency of critical virtual machines (VMs) through replication, backups, and failover capabilities.
 
 ## Features
